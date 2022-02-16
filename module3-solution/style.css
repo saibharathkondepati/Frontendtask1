@@ -1,0 +1,86 @@
+.container-fluid{
+	margin: 0;
+	padding: 0;
+}
+.navbar{
+	border-radius: 0px;
+	background-color: orange;
+}
+.navbar-brand{
+	color: white;
+	font-size: 30px;
+	padding-left: 25px;
+}
+.navbar-nav{
+  font-size: 25px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+.navbar-brand:hover{
+	color: red;
+}
+.nav{
+	margin: 0;
+	padding: 0;
+}
+.navbar-toggle{
+	border: 2px solid white;
+	margin-right: 25px;
+	background-color: black;
+}
+.icon-bar{
+	background-color: white;
+}
+
+.main-title{
+  margin-bottom: 15px;
+  text-align: center;
+  color: darkred;
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+li{
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.sports-name{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: white;
+	border-bottom: 1px solid black;
+	color: black;
+	display: block;
+}
+.sports-iteam:hover{
+	background-color: blue;
+	color: darkblue;
+}
+.row{
+	margin: 200px;
+}
+.content-box{
+	margin: 20px;
+	width: auto;
+	height: auto;
+	color: white;
+	background-color: red;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	padding: 20px;
+}
+.sport-name{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#top{
+	color: black;
+
+}
+
